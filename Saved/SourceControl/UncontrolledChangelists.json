@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/Materials/Hit.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/MyBlueprints/BP_Target_Blueprint.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/UI/UserInterface.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4F/WNR5ML2T1J934Z9TP2QV3Y.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/MyBlueprints/Ammo_Pickup.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/5C/Y831J18U5CEA0N192XRBE7.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/I9/Y0N86EW88WW1X5VVCCJ1JB.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RN/XWTLNZI65IZ6CZGZS6XKQW.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MS/85TTHLRRVR779M288FAIWT.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/JK/N6QM9AZH8P2CWKES7LLIF4.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/K1/2H7KALHBD57ZXD4F7AFUK3.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/StarterContent/Props/BP_Target.uasset",
+				"/Users/calvinwilson/Documents/Unreal Projects/HW_1_attempt_2/Content/MyBlueprints/Target.uasset"
+			]
+		}
+	]
+}
