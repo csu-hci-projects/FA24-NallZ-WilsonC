@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/HW1-1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/HW1-1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/UI/MainMenu.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyLevels/Level1.umap",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyBlueprints/MenuGamemode.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/UI/Kids_city_map.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyShapes/two_notch.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyShapes/CustomFloor.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyLevels/Level2.umap",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Blue.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Oragne.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Green.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Purple.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Red.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyMaterials/Yellow.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyShapes/EyePlatform.uasset",
+				"C:/Users/zrnal/OneDrive/Desktop/College/CS 310H/FA24-NallZ-WilsonC/Content/MyShapes/tinker.uasset"
 			]
 		}
 	]
