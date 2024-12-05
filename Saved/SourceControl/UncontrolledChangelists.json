@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyBlueprints/MyGabbable.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyMAps/MyVRmap.umap",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyBlueprints/BR_Target.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyBlueprints/Ammo-Pistol.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyBlueprints/IM_RELOAD_RIGHT.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/MyBlueprints/IA_RELOAD_RIGHT.uasset",
+				"C:/Users/calvster/Documents/Unreal Projects/VRlab3/Content/VRTemplate/Input/IMC_Weapon_Right.uasset"
+			]
+		}
+	]
+}
